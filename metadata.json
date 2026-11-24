@@ -1,0 +1,8 @@
+{
+  "name": "Kaf Coffee",
+  "description": "Coffee, cakes and comforting food at Kaf Coffee, Ethiopia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
